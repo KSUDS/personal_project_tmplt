@@ -43,3 +43,14 @@ You don't need to make these projects complicated. These projects are built to s
 ## Github pages
 
 It would help if you took the time to publish your repo for easier viewing of the files.  Please follow the directions at [Github pages](https://pages.github.com/) to build your pages footprint on the internet.
+
+## Questions
+
+### Is the expectation of our personal projects similar to that of the class projects we are completing?
+
+Yes & No. Here are a few points to highlight the comparison
+
+1. Three different data sets is the main criteria. Hopefully different challenges to your skills and the data can be in the same area for all three if you desire.
+2. You can choose the language. Please choose based on where you want employment.
+3. We don't get much into the story telling with our class projects.  But, I would hope you tell a story that includes some graphs and analysis.
+4. Think of these as sales pitches for future employment. Your personal projects should be in your own Github space.
